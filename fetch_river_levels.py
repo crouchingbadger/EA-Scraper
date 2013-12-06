@@ -1,4 +1,7 @@
 #!/usr/bin/python
+
+# Forked from https://github.com/russss/ea_scrape 
+
 import requests
 import datetime
 import eeml
